@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **asyiqinmt18@gmail.com**
 
-- 📄 Know about my experiences [📫 How to reach me](📫 How to reach me)
+- 📄 Know about my experiences  **https://www.linkedin.com/in/nafeszaasyiqin/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
