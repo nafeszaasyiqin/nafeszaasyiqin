@@ -1,7 +1,7 @@
 
 <h1 align="center">Holla 👋, I'm Nafesza Asyiqin</h1>
 <h3 align="center">A passionate Computer Science graduate</h3>
-
+<img align="right" alt>"coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafeszaasyiqin&label=Profile%20views&color=0e75b6&style=flat" alt="nafeszaasyiqin" /> </p>
 
 - 🔭 I’m currently looking for new role in **Software development, Data Analysis, Data Science**
