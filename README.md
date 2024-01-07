@@ -1,4 +1,4 @@
-
+[![MasterHead](https://conbinidesignco.com.au/wp-content/uploads/2021/02/conbini-design-co-illustration-female-girl-desk.gif)](https://www.linkedin.com/in/nafesza-asyiqin-b347b7206/)
 <h1 align="center">Holla 👋, I'm Nafesza Asyiqin</h1>
 <h3 align="center">A passionate Computer Science graduate</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
